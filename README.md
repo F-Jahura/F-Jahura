@@ -25,3 +25,7 @@ Java-разработчик
 
 **Год окончания:**
 2025
+
+## Навыки
+Java, Spring Boot, JUnit, Git, JPA, JDBC, REST API, Hibernate, Liquibase, Java, Git, Ubuntu, Postman, Gradle, Maven, Docker, MySQL
+
