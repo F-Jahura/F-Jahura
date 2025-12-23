@@ -31,7 +31,11 @@ Java, Spring Boot, Gradle, Maven, JUnit, JPA, JDBC, REST API, Hibernate, Liquiba
 
 ## Ссылки учебных проектов:
 https://github.com/F-Jahura/java-project-61
+
 https://github.com/F-Jahura/java-project-71
+
 https://github.com/F-Jahura/java-project-78
+
 https://github.com/F-Jahura/java-project-72
+
 https://github.com/F-Jahura/java-project-99
