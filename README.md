@@ -27,5 +27,5 @@ Java-разработчик
 2025
 
 ## Навыки
-Java, Spring Boot, JUnit, Git, JPA, JDBC, REST API, Hibernate, Liquibase, Java, Git, Ubuntu, Postman, Gradle, Maven, Docker, MySQL
+Java, Spring Boot, Gradle, Maven, JUnit, JPA, JDBC, REST API, Hibernate, Liquibase, CSS, Ubuntu, Postman,Docker, MySQL, Git, Excel, 1C
 
