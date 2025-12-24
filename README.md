@@ -1,35 +1,29 @@
-## Место учёбы
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fatema Jahura
+======================================================================================================================================
 
-**Уровень образование:**
-Специалист
+Java developer
+--------------
 
-**Учебное заведение:**
-Московский государственный университет путей сообщения, Москва
+I have been learning Java programming around two and half years. First one and half years I have learnt by myself then had Java developing course in online school "Hexlet". I just finished the course in Hexlet in last December, 2025 and now actively looking for a job as Java developer.
 
-**Факультет:**
-Институт управления и информационных технологий
+I have studied Information Technology in University but never worked in IT. I have worked around ten years as Export & Import Manager but decided to change the profession and started learning Java. I have all basic knowledges that will help me to start a job in Java. I understand there are lots of stuffs to learn and I am ready for it.
 
-**Специализация:**
-Разработка задачи управления беспроводным доступом к персональной ЭВМ через сеть Интернет
+* 🌍  I'm based in Moscow, Russia
+* 🖥️  See my portfolio at [https://github.com/F-Jahura](http://github.com/F-Jahura)
+* ✉️  You can contact me at [f\_jahura@yahoo.com](mailto:f_jahura@yahoo.com)
 
-**Год окончания:**
-2010
+<p align="left">
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+</p>
 
+### Socials
 
-## Повышение квалификации, курсы
-**Название курса:** 
-Java-разработчик
+<p align="left"> <a href="https://www.github.com/F-Jahura" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://Fatema Jahura.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="https://www.facebook.com/Fatema Jahura" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
-**Проводившая организация:** 
-«Учебный центр «Хекслет»
+### Skills
+Gradle, JUnit, JPA, JDBC, REST API, Hibernate, Liquibase, Postman, Docker, Excel, 1C
 
-**Год окончания:**
-2025
-
-## Навыки:
-Java, Spring Boot, Gradle, Maven, JUnit, JPA, JDBC, REST API, Hibernate, Liquibase, CSS, Ubuntu, Postman,Docker, MySQL, Git, Excel, 1C
-
-## Ссылки учебных проектов:
+### Links of educational projects
 https://github.com/F-Jahura/java-project-61
 
 https://github.com/F-Jahura/java-project-71
