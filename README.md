@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fatema Jahura
 ======================================================================================================================================
 
-💻 Java developer
+💻 Java backend developer
 --------------
 
 I have been learning Java programming around two and half years. First one and half years I have learnt by myself then had Java developing course in online school "Hexlet". I just finished the course in Hexlet in last December, 2025 and now actively looking for a job as Java developer.
