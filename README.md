@@ -23,13 +23,11 @@ I have studied Information Technology in University but never worked in IT. I ha
 ### Skills
 Java, Intellij IDEA, ООП, MySQL, PostgreSQL, Gradle, GIT, JUnit, JPA, JDBC, REST API, Hibernate, Liquibase, Java Spring Boot, Ubuntu, Postman, Docker, Английский язык
 
-### Links of educational projects
-https://github.com/F-Jahura/java-project-61
+### Проекты:
+1.Игры разума(https://github.com/F-Jahura/java-project-61) - набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для тренировки мозга.
 
-https://github.com/F-Jahura/java-project-71
+2.Вычислитель отличий(https://github.com/F-Jahura/java-project-71) - программа, которая определяет разницу между двумя структурами данных. Поддерживает форматы json и yaml, а так же генерирует отчёт в виде plain, text, stylish и json.
 
-https://github.com/F-Jahura/java-project-78
+3.Анализатор страниц(https://github.com/F-Jahura/java-project-72) - сайт для анализа страницы на SEO-пригодность.
 
-https://github.com/F-Jahura/java-project-72
-
-https://github.com/F-Jahura/java-project-99
+4.Менеджер задач(https://github.com/F-Jahura/java-project-99) - сайт с системой управления задачами.
