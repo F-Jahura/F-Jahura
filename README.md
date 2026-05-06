@@ -1,3 +1,39 @@
+Hi 
+ My name is Fatema Jahura
+💻 Java backend developer
+I have been learning Java programming around two and half years. First one and half years I have learnt by myself then had Java developing course in online school "Hexlet". I just finished the course in Hexlet in last December, 2025 and now actively looking for a job as Java developer.
+
+I have studied Information Technology in University but never worked in IT. I have worked around ten years as Export & Import Manager but decided to change the profession and started learning Java. I have all basic knowledges that will help me to start a job in Java. I understand there are lots of stuffs to learn and I am ready for it.
+
+🌍 I'm based in Moscow, Russia
+🖥️ See my portfolio at https://github.com/F-Jahura
+✉️ You can contact me at f_jahura@yahoo.com
+Spring BootGitJavaVS CodeHTML5CSS3MySQLPostgreSQLUbuntu
+
+📫 Socials
+GitHub Hashnode Facebook
+
+📚 Skills
+Java, Intellij IDEA, ООП, MySQL, PostgreSQL, Gradle, GIT, JUnit, JPA, JDBC, REST API, Hibernate, Liquibase, Java Spring Boot, Ubuntu, Postman, Docker, Английский язык
+
+🛠️ Проекты:
+1.Игры разума(https://github.com/F-Jahura/java-project-61) - набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для тренировки мозга.
+
+2.Вычислитель отличий(https://github.com/F-Jahura/java-project-71) - программа, которая определяет разницу между двумя структурами данных. Поддерживает форматы json и yaml, а так же генерирует отчёт в виде plain, text, stylish и json.
+
+3.Анализатор страниц(https://github.com/F-Jahura/java-project-72) - сайт для анализа страницы на SEO-пригодность.
+
+4.Менеджер задач(https://github.com/F-Jahura/java-project-99) - сайт с системой управления задачами.
+
+
+
+
+
+
+
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fatema Jahura
 ======================================================================================================================================
 
