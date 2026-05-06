@@ -1,29 +1,52 @@
-Hi 
- My name is Fatema Jahura
-💻 Java backend developer
-I have been learning Java programming around two and half years. First one and half years I have learnt by myself then had Java developing course in online school "Hexlet". I just finished the course in Hexlet in last December, 2025 and now actively looking for a job as Java developer.
+# 👋 Hi, I'm Fatema Jahura
 
-I have studied Information Technology in University but never worked in IT. I have worked around ten years as Export & Import Manager but decided to change the profession and started learning Java. I have all basic knowledges that will help me to start a job in Java. I understand there are lots of stuffs to learn and I am ready for it.
+**Junior Java Developer** | Backend enthusiast | Ex-VED specialist with 10+ years of experience in data analysis and negotiations.
 
-🌍 I'm based in Moscow, Russia
-🖥️ See my portfolio at https://github.com/F-Jahura
-✉️ You can contact me at f_jahura@yahoo.com
-Spring BootGitJavaVS CodeHTML5CSS3MySQLPostgreSQLUbuntu
+---
 
-📫 Socials
-GitHub Hashnode Facebook
+### ✨ About me
+- 🔭 I’m actively looking for my **first commercial experience** in Java development.
+- 🌱 I have completed a professional Java course at **Hexlet** (Dec 2025) and have **5 educational projects**.
+- 💼 Before IT, I worked 10 years in **international trade (VED)** – managing data, contracts, logistics, and cross-functional negotiations. This taught me to be detail-oriented, responsible, and results-driven.
+- 🎯 My goal: to become a strong backend developer who builds reliable and efficient systems.
+- 📍 Based in **Moscow, Russia**.
 
-📚 Skills
-Java, Intellij IDEA, ООП, MySQL, PostgreSQL, Gradle, GIT, JUnit, JPA, JDBC, REST API, Hibernate, Liquibase, Java Spring Boot, Ubuntu, Postman, Docker, Английский язык
+---
 
-🛠️ Проекты:
-1.Игры разума(https://github.com/F-Jahura/java-project-61) - набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для тренировки мозга.
+### 💻 Tech Stack
 
-2.Вычислитель отличий(https://github.com/F-Jahura/java-project-71) - программа, которая определяет разницу между двумя структурами данных. Поддерживает форматы json и yaml, а так же генерирует отчёт в виде plain, text, stylish и json.
+**Core:** Java (SE 17/21), Spring Boot, Spring Data JPA, Hibernate, REST API, JWT
 
-3.Анализатор страниц(https://github.com/F-Jahura/java-project-72) - сайт для анализа страницы на SEO-пригодность.
+**Databases & Tools:** PostgreSQL, MySQL, Liquibase, JDBC, Git, Maven, Gradle, Docker
 
-4.Менеджер задач(https://github.com/F-Jahura/java-project-99) - сайт с системой управления задачами.
+**Testing & Quality:** JUnit, Mockito, Checkstyle, SonarQube, GitHub Actions
+
+**Languages:** English (C2 – Advanced), Russian (fluent)
+
+---
+
+### 📌 Featured Project
+
+#### 🧩 Task Manager – Web application for task management  
+🔗 [GitHub repository](https://github.com/F-Jahura/java-project-99)  
+🚀 **Live demo:** [https://java-project-99-dolt.onrender.com](https://java-project-99-dolt.onrender.com)
+
+- Built with **Spring Boot**, **Spring Security (JWT)**, **Spring Data JPA**, **PostgreSQL**, **Liquibase**, **Docker**.
+- Implemented full **CRUD**, filtering, user roles, and authentication.
+- Covered with **unit & integration tests** (JUnit, Mockito).
+- Configured **CI/CD** via GitHub Actions (auto-build, test, and deploy to Render).
+
+#### Other projects
+- [Page Analyzer](https://github.com/F-Jahura/java-project-72) – SEO analyzer using Java + Javalin + JDBC + MockWebServer (deployed on Render)
+- [Difference Calculator](https://github.com/F-Jahura/java-project-71) – compares JSON/YAML structures (Gradle, JUnit)
+- [Brain Games](https://github.com/F-Jahura/java-project-61) – 5 console mini-games for logic training
+
+---
+
+### 📫 How to reach me
+- **Email:** f_jahura@yahoo.com
+- **Telegram:** @leo111121
+- **GitHub:** [https://github.com/F-Jahura](https://github.com/F-Jahura)
 
 
 
