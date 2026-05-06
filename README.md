@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fatema Jahura
+# 👋 Hi, I'm Fatema Berezhnaya
 
 **Junior Java Developer** | Backend enthusiast | Ex-VED specialist with 10+ years of experience in data analysis and negotiations.
 
